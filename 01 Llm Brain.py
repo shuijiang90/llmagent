@@ -1,5 +1,5 @@
 #llm brain
-
+# pip install langchain-openai
 
 from langchain_openai import ChatOpenAI
 
