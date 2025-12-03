@@ -1,4 +1,4 @@
-# llmagent
+# llmAgent
 - pip install langchain-openai
 ### Frame:
 - ReAct
